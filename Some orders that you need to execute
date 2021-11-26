@@ -1,0 +1,4 @@
+The instruction that you need to execute:
+
+1 - php artisan config:cache
+2 - php artisan serve
